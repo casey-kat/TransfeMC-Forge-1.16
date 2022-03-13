@@ -1,0 +1,13 @@
+name = "Classic Bars"
+filename = "classicbar-4.1.0-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3240/83/classicbar-4.1.0-1.16.5.jar"
+hash-format = "sha1"
+hash = "d17f799715d41d4912cb4e5a6d09cb405aff867a"
+
+[update]
+[update.curseforge]
+file-id = 3240083
+project-id = 317642

@@ -1,0 +1,13 @@
+name = "Some Assembly Required"
+filename = "someassemblyrequired-1.16.5-1.3.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3303/520/someassemblyrequired-1.16.5-1.3.5.jar"
+hash-format = "sha1"
+hash = "61ef003c5d210d928da8234cc003ec5d4b784596"
+
+[update]
+[update.curseforge]
+file-id = 3303520
+project-id = 422951

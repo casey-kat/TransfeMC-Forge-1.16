@@ -1,0 +1,13 @@
+name = "TransfeMC Forge 1.16"
+author = "paraxenos"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d4b31a93d4bb8392d2fa06f0d888d608007303beb8ac15bc6ccef7473f09e8c6"
+
+[versions]
+forge = "36.2.20"
+minecraft = "1.16.5"

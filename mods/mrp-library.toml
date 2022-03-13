@@ -1,0 +1,13 @@
+name = "mrp Library"
+filename = "mrplibrary-1.16.5-2.0.1.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3325/416/mrplibrary-1.16.5-2.0.1.0-forge.jar"
+hash-format = "sha1"
+hash = "baa40b24d1aeafa615d6615cf3ab93a9c1d9a522"
+
+[update]
+[update.curseforge]
+file-id = 3325416
+project-id = 426641

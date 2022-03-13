@@ -1,0 +1,13 @@
+name = "IguanaTweaks Reborn"
+filename = "IguanaTweaksReborn-2.8.5-mc1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3651/852/IguanaTweaksReborn-2.8.5-mc1.16.5.jar"
+hash-format = "sha1"
+hash = "e4dc4725db698c025d82910bb812c2b510cc5389"
+
+[update]
+[update.curseforge]
+file-id = 3651852
+project-id = 285690

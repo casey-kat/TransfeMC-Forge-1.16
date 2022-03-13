@@ -1,0 +1,13 @@
+name = "Omnis Backpacks"
+filename = "omnis_backpacks-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3345/127/omnis_backpacks-1.2.1.jar"
+hash-format = "sha1"
+hash = "7969c347ca21064412be1b68d334fa3b3693c34a"
+
+[update]
+[update.curseforge]
+file-id = 3345127
+project-id = 474188

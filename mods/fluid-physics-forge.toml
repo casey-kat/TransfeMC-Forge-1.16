@@ -1,0 +1,13 @@
+name = "Fluid Physics [Forge]"
+filename = "fluidphysics-1.6.0+forge-1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3558/869/fluidphysics-1.6.0+forge-1.16.4.jar"
+hash-format = "sha1"
+hash = "6c3ac03b930584ce9f9cbf015be534b16e327929"
+
+[update]
+[update.curseforge]
+file-id = 3558869
+project-id = 410664

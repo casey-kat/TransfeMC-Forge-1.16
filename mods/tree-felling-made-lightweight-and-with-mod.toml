@@ -1,0 +1,13 @@
+name = "Tree Felling [Forge]"
+filename = "tree_felling-2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3382/271/tree_felling-2.3.jar"
+hash-format = "sha1"
+hash = "a5401d6b99519319abf481c0d0aa2cc1b1740e54"
+
+[update]
+[update.curseforge]
+file-id = 3382271
+project-id = 442043
