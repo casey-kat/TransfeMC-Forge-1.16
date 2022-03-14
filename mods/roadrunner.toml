@@ -1,13 +1,13 @@
 name = "RoadRunner"
-filename = "RoadRunner-mc1.16.5-1.4.0.jar"
+filename = "RoadRunner-mc1.16.5-1.4.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3565/489/RoadRunner-mc1.16.5-1.4.0.jar"
+url = "https://edge.forgecdn.net/files/3683/120/RoadRunner-mc1.16.5-1.4.1.jar"
 hash-format = "sha1"
-hash = "6e0424b82f0569a1b82902edd5c96b4341b3b8ac"
+hash = "b53b54eb9729e8081842e624359324a83a244a96"
 
 [update]
 [update.curseforge]
-file-id = 3565489
+file-id = 3683120
 project-id = 529754

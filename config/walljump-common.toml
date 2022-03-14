@@ -2,7 +2,7 @@
 #Common configuration settings
 [common]
 	#Allows you to jump in mid-air
-	useDoubleJump = true
+	useDoubleJump = false
 	#Exhaustion gained per wall jump
 	#Range: 0.0 ~ 3.0
 	exhaustionWallJump = 0.8

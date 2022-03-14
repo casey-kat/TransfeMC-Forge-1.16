@@ -125,7 +125,7 @@
 	"Variant Ladders" = true
 	Shingles = true
 	"Item Frames" = true
-	"Stained Planks" = true
+	"Stained Planks" = false
 	"Wooden Posts" = true
 	"Leaf Carpet" = false
 	Midori = true

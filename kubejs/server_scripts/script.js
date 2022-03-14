@@ -18,3 +18,10 @@ onEvent('item.tags', event => {
 	// Get the #forge:cobblestone tag collection and remove Mossy Cobblestone from it
 	// event.get('forge:cobblestone').remove('minecraft:mossy_cobblestone')
 })
+
+onEvent('block.modification', event => {
+  event.modify('minecraft:stone', block => {
+    block.destroySpeed = 0.1
+    block.hasCollision = false
+  })
+})
