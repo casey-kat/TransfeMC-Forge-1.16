@@ -1,0 +1,13 @@
+name = "Cannot Build over Lava Source blocks"
+filename = "nolavabuild-1.16.3-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3071/324/nolavabuild-1.16.3-1.0.1.jar"
+hash-format = "sha1"
+hash = "9c644e92a41f928ee8bd23ce7e7b99e1adcf5bd0"
+
+[update]
+[update.curseforge]
+file-id = 3071324
+project-id = 333828
